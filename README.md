@@ -117,12 +117,11 @@ Open-source programs like this often get flagged as viruses because some malware
 | minon kaka | | |
 
 
-## 🛠️ Building
-
+### 🛠️ Building
 ### 🔧 Requirements
 
-- [VS BuildTools C++](LINK_BURAYA)
-- [Python](LINK_BURAYA)
+- [VS BuildTools C++](https://visualstudio.microsoft.com/tr/downloads/)
+- [Python](https://www.python.org/downloads/)
 
 **1. Clone The Repository**
 
