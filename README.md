@@ -116,40 +116,51 @@ Open-source programs like this often get flagged as viruses because some malware
 | Momo | | |
 | minon kaka | | |
 
----
 
-### 🛠️ Building
+## 🛠️ Building
 
 ### 🔧 Requirements
-*   VS BuildTools C++
-*   Python
+
+- [VS BuildTools C++](LINK_BURAYA)
+- [Python](LINK_BURAYA)
 
 **1. Clone The Repository**
-Bash
-git clone [https://github.com/NotHammer043/nanoMIDIPlayer.git](https://github.com/NotHammer043/nanoMIDIPlayer.git)
-cd nanoMIDIPlayer
 
+```bash
+git clone https://github.com/NotHammer043/nanoMIDIPlayer.git
+cd nanoMIDIPlayer
+```
 
 **2. Install Dependencies**
-Bash
+
+```bash
 pip install -r requirements.txt
+```
 
 **3. Build**
-build.bat
-./build-mac.sh
-🐞 Debugging Mode
 
-nanoMIDIPlayer.exe --debug
 ```bash
+build.bat
+```
 
-💖 **Support & Contributions**
-**Star the repo** ⭐ on **GitHub**
-**Report issues** 🛠️ via **GitHub Issues**
-**Contribute** 💻 via **Pull Requests**
+```bash
+# For macOS
+./build-mac.sh
+```
 
-**Donate via BuyMeACoffee ☕**
+### 🐞 Debugging Mode
 
-<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/65bb3354-edef-4e71-bd1f-9157495cc456" />
+```bash
+nanoMIDIPlayer.exe --debug
+```
 
 ---
 
+## 💖 Support & Contributions
+
+- Star the repo ⭐ on [GitHub](LINK_BURAYA)
+- Report issues 🛠️ via [GitHub Issues](LINK_BURAYA)
+- Contribute 💻 via Pull Requests
+- Donate via [BuyMeACoffee](LINK_BURAYA) ☕
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/65bb3354-edef-4e71-bd1f-9157495cc456" />
