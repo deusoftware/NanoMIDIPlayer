@@ -120,7 +120,7 @@ Open-source programs like this often get flagged as viruses because some malware
 
 ### 🛠️ Building
 
-#### 🪄 Requirements
+### 🔧 Requirements
 *   VS BuildTools C++
 *   Python
 
@@ -151,3 +151,4 @@ nanoMIDIPlayer.exe --debug
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/65bb3354-edef-4e71-bd1f-9157495cc456" />
 
 ---
+
