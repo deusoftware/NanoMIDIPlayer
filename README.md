@@ -1,3 +1,13 @@
+content = """[image: nanoMIDI logo]
+
+nanoMIDIPlayer is a lightweight MIDI player that can simulate MIDI to QWERTY or send MIDI signals directly to output MIDI devices.
+
+[image: STARS 86 badge] [image: LICENSE GPL-3.0 badge] [image: DOWNLOADS 273K badge]
+
+[image: Discord button] [image: Buy me a coffee button]
+
+---
+
 ### 🚀 Features
 
 - [x] Fully Open Source
