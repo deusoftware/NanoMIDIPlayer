@@ -3,9 +3,9 @@
 
 nanoMIDIPlayer is a lightweight MIDI player that can simulate MIDI to QWERTY or send MIDI signals directly to output MIDI devices.
 
-[image: STARS 86 badge] [image: LICENSE GPL-3.0 badge] [image: DOWNLOADS 273K badge]
+<img width="104" height="28" alt="image" src="https://github.com/user-attachments/assets/92d375c6-7b16-41ea-891e-6700ddb7db78" /> <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/afff3918-5464-4b42-90af-42960c07e2a3" /> <img width="160" height="28" alt="image" src="https://github.com/user-attachments/assets/c58ea22b-cde7-4154-8cb5-fd5cacdecf57" />
 
-[image: Discord button] [image: Buy me a coffee button]
+<img width="138" height="37" alt="image" src="https://github.com/user-attachments/assets/1c4a9269-d01d-41e3-aba1-955e6d821b59" /> <img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/4953ecc5-c164-4148-8f87-9f5c5e61a4eb" />
 
 ---
 
