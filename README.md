@@ -117,8 +117,9 @@ Open-source programs like this often get flagged as viruses because some malware
 | minon kaka | | |
 
 
-## 🛠️ Building
-### 🔧 Requirements
+##  🛠️ **Building**
+
+### 🔧 **Requirements**
 
 - [VS BuildTools C++](https://visualstudio.microsoft.com/tr/downloads/)
 - [Python](https://www.python.org/downloads/)
