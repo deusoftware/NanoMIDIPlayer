@@ -118,7 +118,6 @@ Open-source programs like this often get flagged as viruses because some malware
 
 
 ## 🛠️ Building
-
 ### 🔧 Requirements
 
 - [VS BuildTools C++](https://visualstudio.microsoft.com/tr/downloads/)
