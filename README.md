@@ -1,4 +1,5 @@
-🚀 Features
+🚀 **Features**
+
  Fully Open Source
  
  Simulate MIDI Events as QWERTY or to Output Device from .mid | .midi Files
@@ -16,7 +17,11 @@
  Drums to QWERTY from .mid | .midi Files
  
  Built-in MIDI Hub from nanoMIDI.net
+ 
  Modifiable Hotkeys
+ 
  Customizable User-Interface
+ 
  Windows, Linux and macOS Support!
+ 
  No Time Drift
