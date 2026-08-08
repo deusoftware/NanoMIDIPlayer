@@ -125,13 +125,13 @@ Open-source programs like this often get flagged as viruses because some malware
 *   Python
 
 **1. Clone The Repository**
-```bash
+Bash
 git clone [https://github.com/NotHammer043/nanoMIDIPlayer.git](https://github.com/NotHammer043/nanoMIDIPlayer.git)
 cd nanoMIDIPlayer
-```bash
+
 
 **2. Install Dependencies**
-```bash
+Bash
 pip install -r requirements.txt
 
 **3. Build**
@@ -140,6 +140,7 @@ build.bat
 🐞 Debugging Mode
 
 nanoMIDIPlayer.exe --debug
+```bash
 
 💖 **Support & Contributions**
 **Star the repo** ⭐ on **GitHub**
