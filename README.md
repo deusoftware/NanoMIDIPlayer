@@ -1,4 +1,5 @@
-content = """[image: nanoMIDI logo]
+content = """[<img width="804" height="249" alt="image" src="https://github.com/user-attachments/assets/50a28dfb-e683-41d4-a5a1-e4db8762840a" />]
+
 
 nanoMIDIPlayer is a lightweight MIDI player that can simulate MIDI to QWERTY or send MIDI signals directly to output MIDI devices.
 
