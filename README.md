@@ -1,10 +1,6 @@
-[content = """[image: nanoMIDI logo]
 
-nanoMIDIPlayer is a lightweight MIDI player that can simulate MIDI to QWERTY or send MIDI signals directly to output MIDI devices.
+<img width="804" height="249" alt="image" src="https://github.com/user-attachments/assets/5c0205b6-4e9f-4f81-bbd2-aa98917f9496" />
 
-[image: STARS 86 badge] [image: LICENSE GPL-3.0 badge] [image: DOWNLOADS 273K badge]
-
-[image: Discord button] [image: Buy me a coffee button]](https://private-user-images.githubusercontent.com/107131733/524645021-63d98de7-416e-493c-876b-f76d1ee8599b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYyMDUxMTIsIm5iZiI6MTc4NjIwNDgxMiwicGF0aCI6Ii8xMDcxMzE3MzMvNTI0NjQ1MDIxLTYzZDk4ZGU3LTQxNmUtNDkzYy04NzZiLWY3NmQxZWU4NTk5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwOFQxNjAwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZmZjMDhlODNmZDc4Y2M2MTViYzBlYmNkOWUxNTllZGY0NjdjMDczYTExZWI5MDU0YmJmNDcwMTRhMmFhYzJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.pSR3luajUpCIp5L6R_qwMBdrSAZ2AjYJN_7ZBRMMIc8)
 
 ---
 
