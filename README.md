@@ -128,34 +128,25 @@ Open-source programs like this often get flagged as viruses because some malware
 ```bash
 git clone [https://github.com/NotHammer043/nanoMIDIPlayer.git](https://github.com/NotHammer043/nanoMIDIPlayer.git)
 cd nanoMIDIPlayer
+
 2. Install Dependencies
-
-Bash
-
-
+```bash
 pip install -r requirements.txt
+
 3. Build
+```bash
 
-Bash
-
-
-build.bat
-Bash
-
-
-# For macOS
+4. For macOS
+```bash
 ./build-mac.sh
 🐞 Debugging Mode
-Bash
-
 
 nanoMIDIPlayer.exe --debug
-💖 Support & Contributions
-Star the repo ⭐ on GitHub
 
-Report issues 🛠️ via GitHub Issues
-
-Contribute 💻 via Pull Requests
+💖 **Support & Contributions**
+**Star the repo** ⭐ on **GitHub**
+**Report issues** 🛠️ via **GitHub Issues**
+**Contribute** 💻 via **Pull Requests**
 
 Donate via BuyMeACoffee ☕
 
