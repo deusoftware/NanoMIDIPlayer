@@ -1,7 +1,7 @@
 <img width="804" height="249" alt="image" src="https://github.com/user-attachments/assets/50a28dfb-e683-41d4-a5a1-e4db8762840a" />
 
 
-nanoMIDIPlayer is a lightweight MIDI player that can simulate MIDI to QWERTY or send MIDI signals directly to output MIDI devices.
+**nanoMIDIPlayer** is a lightweight MIDI player that can simulate **MIDI to QWERTY** or send MIDI signals directly to output MIDI devices.
 
 <img width="104" height="28" alt="image" src="https://github.com/user-attachments/assets/92d375c6-7b16-41ea-891e-6700ddb7db78" /> <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/afff3918-5464-4b42-90af-42960c07e2a3" /> <img width="160" height="28" alt="image" src="https://github.com/user-attachments/assets/c58ea22b-cde7-4154-8cb5-fd5cacdecf57" />
 
